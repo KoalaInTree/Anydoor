@@ -1,0 +1,2 @@
+# Anydoor
+node static server
